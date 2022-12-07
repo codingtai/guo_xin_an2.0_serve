@@ -1,0 +1,35 @@
+{
+    "msg": "操作成功",
+    "result": [
+        {
+            "id": "16",
+            "imgUrl": "http://sthjj.yibin.gov.cn/xwdt/sjdt/202207/W020220722637934596215.png",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "18",
+            "imgUrl": "http://sthjj.yibin.gov.cn/xwdt/sjdt/202210/W020221028326427745019.jpg",
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "19",
+            "imgUrl": "http://sthjj.yibin.gov.cn/xwdt/sjdt/202209/W020220910701454188828.jpg", 
+            "hrefUrl": "/category/1013001",
+            "type": "1"
+        },
+        {
+            "id": "20",
+            "imgUrl": "http://sthjj.yibin.gov.cn/hjdt/jgdj/202205/W020220519693329046683.jpg",
+            "hrefUrl": "/category/1005000",
+            "type": "1"
+        },
+        {
+            "id": "17",
+            "imgUrl": "http://sthjj.yibin.gov.cn/xwdt/sjdt/202204/W020220429383516515690.jpg",
+            "hrefUrl": "/category/1019000",
+            "type": "1"
+        }
+    ]
+}
